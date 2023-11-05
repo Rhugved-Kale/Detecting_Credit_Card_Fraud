@@ -1,4 +1,4 @@
-# Detecting_Credit_Card_Fraud
+# Detecting Credit Card Fraud
 
 This project aims to detect fraudulent credit card transactions using advanced machine learning techniques. Leveraging exploratory data analysis (EDA) and addressing class imbalance issues, this model efficiently identifies potentially fraudulent activities, ensuring the security and reliability of credit card transactions. The project has been implemented using logistic regression, achieving an impressive 96% accuracy, and F1-score.
 
