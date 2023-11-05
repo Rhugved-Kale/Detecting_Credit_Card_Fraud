@@ -14,7 +14,7 @@ This dataset is taken from Kaggle (https://www.kaggle.com/datasets/mlg-ulb/credi
 
 ### Classification Report: 
 
-![image](https://github.com/Rhugved-Kale/Detecting_Credit_Card_Fraud/assets/86423298/a0df9e35-de9a-4b02-bdac-0a0e7aa9cb7c)
+![image](https://github.com/Rhugved-Kale/Detecting_Credit_Card_Fraud/assets/86423298/f1f392db-22ef-4f9a-8c3a-2bc354adf225)
 
 
 ### Model:
