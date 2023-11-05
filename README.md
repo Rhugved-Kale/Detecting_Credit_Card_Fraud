@@ -9,8 +9,7 @@ This dataset is taken from Kaggle (https://www.kaggle.com/datasets/mlg-ulb/credi
 
 ### Confusion Matrix:
 
-![image](https://github.com/Rhugved-Kale/Detecting_Credit_Card_Fraud/assets/86423298/79237232-54d4-466e-bd08-eee478850014)
-
+![image](https://github.com/Rhugved-Kale/Detecting_Credit_Card_Fraud/assets/86423298/d1b10cc1-80eb-4f26-ac11-b24e4983c4c1)
 
 
 ### Classification Report: 
